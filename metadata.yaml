@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33795'
     url: http://www.gutenberg.org/2009/agents/33795
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29258#The-Enclosures-in-EnglandAn-Economic-Reconstruction
 gutenberg_issued: '2009-06-27'
 gutenberg_type: Text
 identifiers:
